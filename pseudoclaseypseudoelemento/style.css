@@ -1,0 +1,20 @@
+/* Autor: Samuel Díaz Martos */
+
+header :first-child{
+    color: aqua;
+}
+
+a:link{
+    background-color: yellow;
+}
+
+a:visited{
+    background-color: blue;
+}
+
+a:hover{
+    background-color: yellow;
+    color: green;    
+    font-size: larger;
+    font-weight: bold;
+}

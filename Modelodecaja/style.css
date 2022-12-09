@@ -1,0 +1,27 @@
+body{
+    border-style: solid;
+    border-width: 10px;
+    border-color: blueviolet;
+    background-color: aqua;
+    font-size: 1em;
+}
+h1{
+    border-style: dotted;
+    border-width: 2rem;
+}
+table{
+    border-style: double;
+    border-width: 1rem;
+    border-radius: 15%;
+    background-color: blanchedalmond;
+    height: 50%;
+    width: 50%;
+}
+tr{
+    border: 1rem blue solid;
+    border-radius: 15%;
+}
+td{
+    border: 0.3rem blue solid;
+    border-radius: 30%;
+}

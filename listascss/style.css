@@ -1,0 +1,14 @@
+ul{
+    list-style: upper-roman;
+}
+ol{
+    list-style-image:url(./img/foto.png)
+}
+dt.personalizado{
+    background-color: yellow;
+    border-color: red;
+    border-width: 3px;
+    border-style: solid;
+    padding: 3px;
+    width: 30%;
+}
